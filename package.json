@@ -1,6 +1,6 @@
 {
   "name": "standard-version-example",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
     "release:major": "standard-version --release-as major",
     "release:minor": "standard-version --release-as minor",
     "release:patch": "standard-version --release-as patch",
-    "release:tag": "standard-version -t $(date +release-%Y%m%d-v)",
+    "release:tag": "standard-version -t $(date+release-%Y%m%d-v)",
     "release:dry": "standard-version --dry-run"
   },
   "keywords": [],
