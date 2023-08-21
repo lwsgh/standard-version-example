@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/lwsgh/standard-version-example/compare/v1.1.0...v1.3.0) (2023-08-21)
+
+
+### Features
+
+* 添加追踪文件 ([4c5041d](https://github.com/lwsgh/standard-version-example/commit/4c5041d27d0be29fcb3bcd058d27fabd4f9a6e13))
+
 ## 1.2.0 (2023-08-21)
 
 
