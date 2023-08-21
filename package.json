@@ -5,9 +5,11 @@
   "main": "index.js",
   "scripts": {
     "release": "standard-version",
+    "release:first": "standard-version --first-release",
     "release:major": "standard-version --release-as major",
     "release:minor": "standard-version --release-as minor",
-    "release:patch": "standard-version --release-as patch"
+    "release:patch": "standard-version --release-as patch",
+    "release:tag": "standard-version -t $(date +release-%Y%m%d-v)"
   },
   "keywords": [],
   "author": "",
